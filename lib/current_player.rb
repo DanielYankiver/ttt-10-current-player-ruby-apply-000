@@ -13,6 +13,6 @@ def turn_count(board_array)
 end 
 
 
-def current_player
+def current_player(game_board)
   
 end 
