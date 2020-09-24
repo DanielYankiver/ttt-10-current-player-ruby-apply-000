@@ -4,8 +4,11 @@
 
 def turn_count(board)
   turns = 0 
-  board.each { |space| if space == "X" || space == "O" turn +=1  }
-  
+  board.each do |space| 
+    if space == "X" || space == "O" 
+      turn +=1  
+    end 
+  end 
 end 
 
 
