@@ -3,7 +3,8 @@
 # 2. method that will return, based on that information, an "X" if it is player "X"'s turn, and an "O" if it is player "O"'s turn
 
 def turn_count(board)
-  
+  turns = 0 
+  X || O 
 
   
 end 
